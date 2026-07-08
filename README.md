@@ -1,20 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Low Price Super Shop Website
 
-# Run and deploy your AI Studio app
+Overview
 
-This contains everything you need to run your app locally.
+This is a modern, responsive demo website for Low Price Super Shop, located in Bavishe Galli, opposite IDBI Bank, Raver, Maharashtra. The website is designed to showcase the store, its products, services, location, and contact information.
 
-View your app in AI Studio: https://ai.studio/apps/15b43bf2-4ea6-4356-9608-5d32924efe5a
+Features
 
-## Run Locally
+- Responsive design for mobile, tablet, and desktop
+- Modern UI with smooth animations
+- Hero section
+- About section
+- Product categories
+- Customer reviews
+- Gallery
+- Contact form
+- Google Maps integration
+- WhatsApp and Call buttons
+- SEO-friendly structure
 
-**Prerequisites:**  Node.js
+Technologies Used
 
+- HTML5
+- CSS3
+- JavaScript
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Project Structure
+
+project/
+│── index.html
+│── css/
+│   └── style.css
+│── js/
+│   └── script.js
+│── images/
+│── README.md
+
+How to Run
+
+1. Download or clone the project.
+2. Open the project folder.
+3. Double-click "index.html" or run it using a local web server.
+4. Customize the content with your business details.
+
+Future Improvements
+
+- Product catalog
+- Online ordering
+- Admin dashboard
+- Inventory management
+- Customer login
+- Payment gateway integration
+
+License
+
+This project is intended for demonstration and educational purposes.
