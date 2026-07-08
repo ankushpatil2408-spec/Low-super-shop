@@ -1,0 +1,6 @@
+{
+  "name": "Low Price Super Shop",
+  "description": "Premium responsive website for Low Price Super Shop - Super Market, Grocery and Daily Needs Store in Raver, Maharashtra, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
